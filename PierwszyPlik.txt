@@ -1,1 +1,2 @@
 Pierwszy plik do testów
+Druga linia dodana
