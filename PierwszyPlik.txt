@@ -1,2 +1,3 @@
 Pierwszy plik do testów
 Druga linia dodana
+Linia dodana na branchu feature/test1
