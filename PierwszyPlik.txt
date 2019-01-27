@@ -1,3 +1,4 @@
 Pierwszy plik do testów
 Druga linia dodana
 Linia dodana na branchu feature/test1
+Zmiana na branchu test1 aby nastêpnie zrobiæ rebase develop????
